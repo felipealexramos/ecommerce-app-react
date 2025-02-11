@@ -1,7 +1,3 @@
-import { ShoppingBagIcon } from "../../common/icons/ShoppingBagIcon";
-import Button from "../../components/Button";
-import Divider from "../../components/Divider";
-import Field from "../../components/Field";
 import Typography from "../../components/Typography";
 import Styles from "./CartPage.module.css";
 import { useNavigate } from "react-router-dom";

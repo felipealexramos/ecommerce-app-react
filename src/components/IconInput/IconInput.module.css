@@ -1,0 +1,10 @@
+.iconInputContainer {
+    display: flex;
+    width: 100%;
+}
+
+.iconContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
